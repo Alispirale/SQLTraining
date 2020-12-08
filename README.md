@@ -17,8 +17,9 @@ Concepts abordés :
 - Sum
 - Min/Max
 
+
 *_Opérations ensemblistes_*
 Concepts abordés :
 - Union
-- Intersection
-- Différence
+- Intersection (Intersect)
+- Différence (Except)

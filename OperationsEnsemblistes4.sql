@@ -1,4 +1,4 @@
--- Lister les clients (société et pays) ayant commandés via un employé situé à Londres ("London" pour rappel) et n'ayant jamais été livré par "United Package"
+-- Lister les clients (société et pays) ayant commandés via un employé situé à Londres et n'ayant jamais été livré par "United Package"
 
 SELECT Societe, Employe.Pays
 FROM Client, Commande, Employe
